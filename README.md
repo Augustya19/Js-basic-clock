@@ -1,1 +1,1 @@
-# Js-basic-clock
+# Basic Clock using Javascript
